@@ -5,5 +5,7 @@ https://discord.gg/FGGx7NNAVP
 Raw Zebra and his team
 
 <Title>str_credits_thanks
-msm.fan for fixing the Shop
-riotlove for explaining that i cant decompile the game to unity project
+msm.fan for fixing the shop buttons
+quinntendo for helping me add Archaic Dunes
+
+and everyone from the discord server that keep me motivated to make updatez
