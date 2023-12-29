@@ -861,10 +861,10 @@ str_popup_islandAlreadyOn=You are already on this island.
 str_island_comingsoon=Coming Soon!
 
 str_island_City=Floating City
-str_island_City_bio=Floating City bio
+str_island_City_bio=In this enchanting land, players can discover and collect various types of monsters to create a harmonious singing environment. These monsters possess special powers and abilities, which can be utilized to complete different islands throughout the game. The Floating City serves as the starting point for players, unlocking at Level 1. It acts as a hub from which monsters can be teleported to other islands, aiding players in expanding their musical repertoire. One of the distinctive features of the monsters in the Floating City is their ability to create mesmerizing melodies and harmonies. Certain types of monsters known as Celestial Monsters and Supercelestial Monsters excel in producing these enchanting sounds. Their natural talents and musical prowess add depth and complexity to the overall musical experience. However, not all monsters in the Floating City possess this innate ability. Monsters such as the Natural, Fire, Magical, and Seasonal Monsters rely on their visual aesthetics and other unique skills to contribute to the enchanting ambiance of the city. While they may not create sounds themselves, they play a vital role in creating a diverse and captivating musical environment. As players progress in the game, they will uncover more secrets and unlock new monsters with different abilities. The Floating City becomes a thriving metropolis of musical creativity, where players can continuously enhance their collection and explore new ways to create harmonious arrangements. Overall, the Floating City in My Singing Monsters: The Lost Landscapes By Raw Zebra is a captivating and immersive continent filled with magical landscapes, unique monsters, and an enchanting musical atmosphere. It serves as a starting point for players, allowing them to embark on a melodic journey through different islands and unlock the full potential of their monster collection.
 
 str_island_EM=Evergreen Marsh
-str_island_EM_bio=Evergreen Marsh bio
+str_island_EM_bio=Lurking in the depths of the "Evergreen woods", the evergrowing "Evergreen marsh" takes place. Despite the motherland of the marsh already being spellworking, the slimy landscape is enchanted evermore with fairy-tale creatures from around the Slav. Legends affirm, that a being once wondered to the quagmire, shall see the world over disparate. Not many relish the change given upon themselves by the bewitched place that is the Evergreen marsh, so be careful, and step lightly, for in the heart of the marsh one’s future is murkier than the swamp water, and cloudier than the emerald dome seen above the wigged top…
 
 str_island_Organs=Terra of Organs
 str_island_Organs_bio=Terra of Organs bio
@@ -879,7 +879,7 @@ str_island_Desert=Noramba Desert
 str_island_Desert_bio=Noramba Desert bio
 
 str_island_Candy=Candy Island
-str_island_Candy_bio=Candy Island bio
+str_island_Candy_bio=Although it is considered an Outer Island, it has its own unique charm and features that make it stand out. On this island, players can breed and collect monsters with elements like Fire, Earth, Water, and Candy to create a sugary symphony. One of the main attractions on Candy Island is the Grumtromp monster, which is widely recognized as a staple creature. With its candy-themed appearance and vibrant personality, Grumtromp adds a playful touch to the island's musical ambiance. As players progress in the game and unlock new levels, they will have access to various special features on Candy Island. One of these features is the Seasonal monster, Jam Boree, whose melodic tunes bring a festive vibe to the island during specific times of the year. The Wublin on Candy Island is Fleechworm, a unique and peculiar creature with its own distinct musical flair. Lastly, players can also encounter the mythical monster Banchi on Candy Island, adding an air of mystery and wonder. Additionally, Candy Island boasts a unique resource called Sweet Time Strawberry, which can be harvested and utilized to enhance the island's features and attract even more musical monsters.
 
 str_island_Calamity=Calamity Island
 str_island_Calamity_bio=Calamity Island bio
