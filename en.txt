@@ -874,7 +874,7 @@ str_island_Knottshurr_bio=Knottshurr Island bio
 str_island_Meduza=M'Duzza's Crypt
 str_island_Meduza_bio=M'Duzza's Crypt bio
 
-str_island_Desert=Noramba Desert
+str_island_Desert=Noramba Desert (not working)
 str_island_Desert_bio=Noramba Desert bio
 
 str_island_Candy=Candy Island
