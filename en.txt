@@ -398,9 +398,9 @@ Monsters/Monster_light_bio=How ludicrous! The lanky Loch-nitt is a truly strange
 Monsters/Monster_bone=Amoniterium
 Monsters/Monster_bone_bio=In a distant land, born of the tear of a dying star, a unique creature ruled the land... So begins the favorite story of the alluring Amoniterium. A radical role-player of its own class, this boisterous being loves playing make-believe, imagining all sorts of backstories and creating fun costumes. While its own origins remain a mystery, it can only imagine how it was created. No matter what, one thing's for sure: we know it'll become a part of the identity of every bone in the Amoniterium's well outfitted body! 
 Monsters/Monster_psychic=Talactic
-Monsters/Monster_psychic_bio=Macrocranium bio
+Monsters/Monster_psychic_bio=Macrocraniu- err, Talactic is close in brainpower to that of albert einstien, with a literal brainhead, it's easy to tell that Talactic is the supercelestial of the psychic element. As this monster is monster is a monster, you also must note that this supercelestial is big brain, and even knows 9 + 10.
 Monsters/Monster_faerie=Chordyrid
-Monsters/Monster_faerie_bio=Chordyrid bio
+Monsters/Monster_faerie_bio=WAS THAT THE SUPERCELESTIAL OF 87? Seriously, we're running out of things to say. Being the faerie Supercelestial, it's easy to tell that uhm, uhhh. Uhhhh. I think this is Cantorell's big cousin because I have no idea whats going on here.
 
 Structures/Structure_breeding=Breeding Structure
 Structures/Structure_breeding_bio=This peculiar structure has been in use since the golden age of the Monster World, and little has changed since that time. Once it is old enough, a Monster can spontaneously produce an egg containing all of its genetic and elemental information, which is then placed onto one of the 'bowls' of the machine. These eggs, which are truly more like spores, slowly seep out their 'precious bodily fluids' down the twin drains of the structure and magically co-mingle in the center vessel, until a new egg is produced! The process is complicated though, as one breeding combination can have many possible outcomes.
@@ -624,9 +624,9 @@ Decoration/Decoration_test12=The King
 Decoration/Decoration_test12_bio=Nobody knows what "The King" is, but everyone collectively agrees that they should stay away from it. It elicits heebee-jeebees to anyone brave enough to look at it in the eye.
 
 Decoration/Decoration_knott=Mount Knottshurr
-Decoration/Decoration_knott_bio=Mount Knottshurr bio
+Decoration/Decoration_knott_bio=Fashioned in the likeness of the mythical Mountain Morsel, Mount Knottshurr is made up of Bubblerite shavings held together with slobber paste. Despite its artificial origin, it seems to have taken on a life of its own. What else could you expect in the magical Monster World?
 Decoration/Decoration_mors=Mountain Morsel
-Decoration/Decoration_mors_bio=Mountain Morsel bio
+Decoration/Decoration_mors_bio=This relic isn't from around these parts. After a few experimental licks, it was discovered it tastes like grape bubblegum. The visages carved into its surface occasionally emit a low hum when monsters aren't looking. 
  
 
 ObstacleMushroomsbio=Removed fungi will be taken far away to wonderful new homes.
@@ -744,7 +744,7 @@ Decoration/Obstacle_placable_Knott_10=<ref>Decoration/Obstacle_Knott_10
 Decoration/Obstacle_placable_Knott_10_bio=Azu help idk what to write!
 
 Decoration/Dog=Dog
-Decoration/Dog_bio=Dog goD.
+Decoration/Dog_bio=why the actual fuck did the devs make this
 
 str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
@@ -853,7 +853,7 @@ str_popup_masherNoItemsSelected=You need to select items to mash! If you have no
 str_popup_masherLimitReached=You have reached the limit of items you can add to the Masher!
 str_popup_stargazerNotRightLevel=The Observatory can not be activated yet. Expand your island first.
 
-str_popup_mapIsalndNotFinished=This island is still in development! After it is completed, all your progress on this island will be reset. (Play at your own risk)
+str_popup_mapIsalndNotFinished=just press ok on this one, it should've been island not finished popup
 
 str_popup_islandComingSoon=New and Exciting things coming soon!
 str_popup_islandAlreadyOn=You are already on this island.
@@ -867,8 +867,7 @@ str_island_EM=Evergreen Marsh
 str_island_EM_bio=Lurking in the depths of the "Evergreen woods", the evergrowing "Evergreen marsh" takes place. Despite the motherland of the marsh already being spellworking, the slimy landscape is enchanted evermore with fairy-tale creatures from around the Slav. Legends affirm, that a being once wondered to the quagmire, shall see the world over disparate. Not many relish the change given upon themselves by the bewitched place that is the Evergreen marsh, so be careful, and step lightly, for in the heart of the marsh one’s future is murkier than the swamp water, and cloudier than the emerald dome seen above the wigged top…
 
 str_island_Organs=Terra of Organs
-str_island_Organs_bio=Terra of Organs bio
-
+str_island_Organs_bio=Ah, To Terra ton Organon, beautiful place, overprotective but charming. Someone might say it's gross... AND I TOTALLY AGREE WITH IT WHAT THE HELL IS THA- *TV Static* No one has ever survived here. Only the sturdiest and the most adamant Monsters can stay. Like Handmond, it's "Dyed-In-The-Wool"... it even lost it's skin while living here and still survived. Heck! It's even happier than before! And it wants to show you something.
 str_island_Knottshurr=Knottshurr Island
 str_island_Knottshurr_bio=Knottshurr Island bio
 
@@ -888,16 +887,16 @@ str_island_TI=Tutor's Island
 str_island_TI_bio=This huge tree is tree-schoolhouse for young monsters. They are sent here to learn how to sing again! Thank to few monsters, now natural and fire can sing again and they will grow up to move into new home, well not sure if they will feel like it or not but it’ll work, right?
 
 str_island_GM=Gamma Water Island
-str_island_GM_bio=This water, all the pressure, is going to the monsters, and somehow making them mutate. The mutated monsters here actually make a good song!
+str_island_GM_bio=Gamma Water Island bio
 
-str_island_EgyptPipes=Archaic Dunes (coming soon)
+str_island_EgyptPipes=Archaic Dunes
 str_island_EgyptPipes_bio=So, where were 3 fire expansion monsters goes, to safe zone in monsters world! This place is final remaining place for monsters world, it may seem desolated zone but it is very habitable place! It encased in invisible dome as final act of colossal. Now the monsters can enjoy the life in dunes!
 
 str_island_dream=Demented Island
 str_island_dream_bio=what the actual fwog
 
 str_island_ohio=Ohio Island
-str_island_ohio_bio=Sticking out your Yap for the Handmond
+str_island_ohio_bio=Sticking out your Yap for the Handmond\nYour so Plixie\nYour so Caramel\nI just wanna be your Dipster\nFreaking come here\nGive me your Gobstomper
 
 str_island_lvl=Lvl <lvl>
 
@@ -922,23 +921,23 @@ str_cleardata=Clear
 str_nebulaTimerDays=<time> Days Remaning
 str_nebulaTimer=<time> Remaning
 
-str_stars_light=Luminous Beacon
-str_stars_psychic=Subconscious Spiral
-str_stars_bone=Osseous Cross
-str_stars_faerie=Wings of Whimsy
+str_stars_light=Luminous Beacon (Loch-nitt)
+str_stars_psychic=Subconscious Spiral (Talactic)
+str_stars_bone=Osseous Cross (Amoniterium)
+str_stars_faerie=Wings of Whimsy (Chordyrid)
 
-str_stars_water=Ocean's Tears
-str_stars_fire=Core Aflame
-str_stars_plant=Growing Green
-str_stars_air=Weathered Winds
-str_stars_earth=Earthen Ellipse
-str_stars_cold=Frozen Form
-str_stars_crystal=Crystalline Crop
-str_stars_mech=Mettle Gears
-str_stars_electricity=Immortal Jolt
-str_stars_poison=Poison's Mark
-str_stars_shadow=Shadowed Glare
-str_stars_plasma=Plasmic Ooze
+str_stars_water=Ocean's Tears (Hornacle)
+str_stars_fire=Core Aflame (Furnoss)
+str_stars_plant=Growing Green (Blasoom)
+str_stars_air=Weathered Winds (Attmoz)
+str_stars_earth=Earthen Ellipse (Torrt)
+str_stars_cold=Frozen Form (Glaishur)
+str_stars_crystal=Crystalline Crop (Syncopite)
+str_stars_mech=Mettle Gears (Vhamp)
+str_stars_electricity=Immortal Jolt (Galvana)
+str_stars_poison=Poison's Mark (Scaratar)
+str_stars_shadow=Shadowed Glare (Loodvigg)
+str_stars_plasma=Plasmic Ooze (Plixie)
 
 str_class_Natural=Natural
 str_class_Natural-r=Natural(rare)
@@ -978,7 +977,7 @@ str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of you
 str_popup_tutor1=Welcome to <color="purple">The Lost Landscapes!</color>\nA fan-made <color="green">My Singing Monsters</color> game!
 str_popup_tutor2=Hello! I'm Floot Fly. This here is my pal Toe Jammer. Let's get more monsters on this island.
 str_popup_tutor3=Go get a <color="green">Tweedle.</color>
-str_popup_tutor4=Good job! Now we have a <color="green">Tweedle</color> here.\n As well, a gift has appeared in your mailbox! Have fun and happy monstering!
+str_popup_tutor4=Good job! Now we have a <color="green">Tweedle</color> here.\n As well, all monsters in the Market became free. Happy monstering!
 
 str_noitems=No Items
 
@@ -1122,24 +1121,24 @@ Monsters/Monster_quibbleGM_bio=Well... it seems that it's in a Quibble's DNA to 
 str_island_Minigame_YapLeap=Yap Leap
 
 #ARCHAIC DUNES#
-Monsters/Bonapetite=Bona-Petite
-Monsters/Congle=Congle
-Monsters/Gnarls=Gnarls
-Monsters/Krillby=Krillby
-Monsters/Pladdie=Pladdie
-Monsters/Buzzinga=Buzzinga
-Monsters/Shlep=shLep
-Monsters/Buzzinga=Buzzinga
-Monsters/Scaratar=Scaratar
-Monsters/Loodvigg=Loodvigg
-Monsters/Uuduk=Uuduk
-Monsters/Whimmzies=Wimmzies
+Monsters/Bonapetite=Bona-Petite (Encased)
+Monsters/Congle=Congle (Encased)
+Monsters/Gnarls=Gnarls (Encased)
+Monsters/Krillby=Krillby (Encased)
+Monsters/Pladdie=Pladdie (Encased)
+Monsters/Buzzinga=Buzzinga (Encased)
+Monsters/Shlep=shLep (Encased)
+Monsters/Buzzinga=Buzzinga (Encased)
+Monsters/Scaratar=Scaratar (Encased)
+Monsters/Loodvigg=Loodvigg (Encased)
+Monsters/Uuduk=Uuduk (Encased)
+Monsters/Whimmzies=Wimmzies (Encased)
 
 Monsters/Bonapetite_bio=Some musicians tickle the ivories, but the Bona-Petite prefers tickling the ribs. Or perhaps 'having its ribs tickled' is more accurate, depending on which of these two percussionists we're talking about here. Truth is, each is symbiotically connected to the other and equally responsible for delivering punchy kick patterns peppered with a little bottom-end bulk. The duo consists of two monsters, amiably dubbed 'Bona' and 'Petite' by their Wublin pals. The smaller Petite puts the 'riff' in 'midriff,' while the larger Bona grumbles endlessly about indigestion.
 Monsters/Congle_bio=2112-09-04
 Monsters/Gnarls_bio=Depending on how you look at it, Gnarls are both bigger and smaller than any of the other Quint-Element Monsters. Bigger in the sense that each 'being' is actually comprised of multiple organisms instead of just one; and smaller because the Gnarls themselves are actually quite minuscule! Some might say they are little more than parasitic vines that attach themselves to a tree and coordinate to hijack the plant's latent motor functions. Then it's a simple matter of working together to 'animate' the tree's trunk and branches to give it a full range of motion. Each Gnarl operates the opposite side of the tree, and synchronously conjoin their tendrils to form a 'mouth' through which wind can blow to produce sound. Mercifully, the tree doesn't perceive this transformation as troublesome - instead, it delights in the opportunity to explore the Monster World and make music! Another mercy is that the Plant Top Boss's dual intelligences are satisfied to stick to one tree - no need to 'infect' anyone else.
-Monsters/Krillby_bio=	It is unclear whether Krillby's vestigial wings are powerful enough for sustained flight, but this Fire Monster is more at home on the ground than in the air. Its talons make it easy to maneuver across many different terrains, while its wings guide the air in and around the ocarina-like bodies to help produce the lovely whistles for which they are known. This also regulates the Krillby's body temperature when running very fast, something you have to do often when you look as tasty as Krillby does.
-Monsters/Pladdie_bio=	Gather 'round, wee laddies and lassies, and hear the distinct bellow of Pladdie: lord of the Faeries! A spinner of yarns and teller of tales, this tartan talent provides its own dramatic mood music to every storytelling experience. Whether they be legends of mysterious winged Monsters flapping in the night, or a titanic sea creature patrolling the deep, Pladdie is a pro at captivating its audience through song and speech.
+Monsters/Krillby_bio=It is unclear whether Krillby's vestigial wings are powerful enough for sustained flight, but this Fire Monster is more at home on the ground than in the air. Its talons make it easy to maneuver across many different terrains, while its wings guide the air in and around the ocarina-like bodies to help produce the lovely whistles for which they are known. This also regulates the Krillby's body temperature when running very fast, something you have to do often when you look as tasty as Krillby does.
+Monsters/Pladdie_bio=Gather 'round, wee laddies and lassies, and hear the distinct bellow of Pladdie: lord of the Faeries! A spinner of yarns and teller of tales, this tartan talent provides its own dramatic mood music to every storytelling experience. Whether they be legends of mysterious winged Monsters flapping in the night, or a titanic sea creature patrolling the deep, Pladdie is a pro at captivating its audience through song and speech.
 Monsters/Buzzinga_bio=All Mythicals have something in common - their very existence has been questioned and doubted throughout Monster World history. The Buzzinga is one such example, whose constant flitting about the various dimensions of the multiverse make it feel like little more than myth. However, it has a pretty good excuse: this Monster acts as a pollinator for the flowers of the Stablo Mjehurica World Tree! Tapping into its family's ability to open supersonic interdimensional highways, it collects the tree's nectar and contributes to the formation of whole new realities. When it's interested in settling down for a while, the Buzzinga finds respite in the scorching heat of the remains of the living core where this universe has its beginning all those eons ago.
 Monsters/Shlep_bio=For being such a wholesome-looking Monster itself, the Oasis Mythical must surely have some unusual dreams sometimes! That's the only reasonable explanation for the shLep, drawn from an extravagant imagination and brought into being in the dreamspace. Maybe it's a warped manifestation of a Blubberfly, incited by erstwhile desires for a little personal time? Some have proposed that the shLep is inspired by a memorable but noisy encounter with a denizen of the eclectically-populated coral reefs of the living ocean. For better or worse, this listless Dreamythical is now a permanent companion on Mythical Island, so best try to get along!
 Monsters/Scaratar_bio=No longer forced to lay its trademark instrument on the ground, the Scaratar fastidiously infuses wood with special toxins that transform it into a more ornate version. At this age, the Celestial of Poison is perhaps a little too preoccupied with superficially being an indicator of quality, and will often fixate on polishing its instrument rather than practicing its arpeggios.
@@ -1152,28 +1151,28 @@ Monsters/Whimmzies_bio=Wimmzies are a bubbly chorus of Monsters positively burst
 Monsters/Monster_cataliszt=Cataliszt
 Monsters/Monster_cataliszt_bio=The cat who play strings, yet lives a thing as a normal monster, It's haunting melody makes chills go down your spine. But, I wonder, If this island is unknown among all the islands that has been created by the creator, Why did he make this? Why did Catalyzt existed in this island? Among all of those <ERROR_DEMENTED_DREAM_MONSTERS>, Catalyzt is the only one who is normal. Is it me who is experiencing this? Or is it you.
 
-Monsters/Monster_mammott_dream=MAmmOTT?
+Monsters/Monster_mammott_dream=maMmOTT?
 Monsters/Monster_mammott_dream_bio=Dismemberment, Daylight, Defiant, Downcast, Decent
 
-Monsters/Monster_toejammer_dream=TOe jaMMER?
+Monsters/Monster_toejammer_dream=toe JaMMer?
 Monsters/Monster_toejammer_dream_bio=Dishonest, Dependent, Direct, Dominant, Drumbeat
 
 Monsters/Monster_likho_dream=YAp?
 Monsters/Monster_likho_dream_bio=Dirt, Deceit, Dust, Donut, Digest
 
-Monsters/Monster_stogg_dream=stoGG?
+Monsters/Monster_stogg_dream=STogG?
 Monsters/Monster_stogg_dream_bio=Distort, Divergent, Droplet, Disrupt, Deceit
 
-Monsters/Monster_quibble_dream=quiBBLE?
+Monsters/Monster_quibble_dream=QuIbBLe?
 Monsters/Monster_quibble_dream_bio=Defect, Disconnect, Deadbeat, Dot, Drumbeat
 
-Monsters/Monster_deedge_dream=deeDGE?
+Monsters/Monster_deedge_dream=dEeDge?
 Monsters/Monster_deedge_dream_bio=Divergent, Decent, Dirt, Disrupt, Demolishment
 
-Monsters/Monster_dragong_dream=draGONG?
+Monsters/Monster_dragong_dream=dRAgOng?
 Monsters/Monster_dragong_dream_bio=Drumbeat, Difficult, Devout, Decadent, Distant
 
-Monsters/Monster_ghazt_dream=ghAZT?
+Monsters/Monster_ghazt_dream=GhAZt?
 Monsters/Monster_ghazt_dream_bio=Dishonest, Distinct, Delight, Distant, District
 
 Monsters/VOIDCORN_dream=<color="red">V O I D C O R N</color>
