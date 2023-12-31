@@ -1,4 +1,4 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
 intro3;everyone;Surprise!;Free resources, yeah!;icon@gift;diamonds@10000;foodB@5000;coins@100000000;Vortex@100;Relic@500
-Ez;WbYKZGXBNOVaVUgdgUSgZBDSHVTdCXOEOKYhk;This you?;lol;url@https://cdn.discordapp.com/attachments/1184250244356112518/1191067765856030730/image.png?ex=65a4174c&is=6591a24c&hm=979bda13605682180220bd348b4e18cc818b79960892440345cabefdf104a9f4&;diamonds@-1;
+Ez;IJGDcaCDNEbMXZIFBSWdVTMYDUCXTde;This you?;lol;url@https://cdn.discordapp.com/attachments/1184250244356112518/1191067765856030730/image.png?ex=65a4174c&is=6591a24c&hm=979bda13605682180220bd348b4e18cc818b79960892440345cabefdf104a9f4&;diamonds@-1;
