@@ -139,10 +139,12 @@ Monsters/Monster_fwog_undof
 Monsters/Monster_stogg_undof
 Monsters/Monster_phangler_undof
 Monsters/Monster_marshflamo
+Monsters/Monster_marshflamo_rare
 Monsters/Monster_koodahcane
 Monsters/Monster_gobstomper
 Monsters/Monster_thrumble_undof
 Monsters/Monster_keytrus
+Monsters/Monster_keytrus_rare
 Monsters/Monster_claramel
 Monsters/Monster_brasscuit
 Monsters/Monster_sprinklate
