@@ -1,4 +1,5 @@
-sdfghjkfgdfarf
+monster_keytrus_rare entity Monsters/Monster_keytrus_rare
+monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 
 desert_midi midi-d
 desert_sound audio-d Desert
