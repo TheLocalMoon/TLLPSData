@@ -92,8 +92,10 @@ Monsters/Monster_stogg_undof 40
 Monsters/Monster_gumtromp 70
 Monsters/Monster_gumtromp_rare 70 _rare
 Monsters/Monster_keytrus 25
+Monsters/Monster_keytrus_rare 25 _rare
 Monsters/Monster_koodahcane 35
 Monsters/Monster_marshflamo 20
+Monsters/Monster_marshflamo_rare 20 _rare
 Monsters/Monster_brasscuit 35
 Monsters/Monster_gobstomper 20
 Monsters/Monster_claramel 35
