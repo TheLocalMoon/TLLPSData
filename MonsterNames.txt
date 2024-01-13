@@ -1870,3 +1870,23 @@ Let
 You
 Down
 ;
+Monsters/Monster_marshflamo_rare
+Burnt
+Marsh
+Ow-ven
+Sooky
+Stiiky
+Mellti
+Loszeir
+S'more
+Captain
+;
+Monsters/Monster_keytrus_rare
+Sweet Slice
+Peaty
+Flah
+Swerl
+Peppiza
+Spice-2.0
+Lemo
+;
