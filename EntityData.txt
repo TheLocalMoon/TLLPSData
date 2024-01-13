@@ -372,7 +372,7 @@ Monsters/Monster_dragong_dream coins=0 nightmare 0 20 coins=0@120@coins=60 night
 
 Monsters/Bonapetite coins=0 electricity 0 25 coins=0@120@coins=60 encased , 0 0
 Monsters/Congle coins=0 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
-Monsters/Gnarls coins=0 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased , 0 0
+Monsters/Gnarls coins=0 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
 Monsters/Krillby coins=0 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
 Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 15 coins=0@120@coins=60 encased , 0 0
 Monsters/Scaratar coins=0 celestial 0 20 coins=0@120@coins=60 encased , 0 0
