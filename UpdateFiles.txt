@@ -1,1 +1,1 @@
-monster_quibblegm_rare entity Monsters/monster_quibblegm_rare
+monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
