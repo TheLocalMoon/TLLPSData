@@ -1,1 +1,1 @@
-icons sprites-d icons
+monster_quibblegm_rare entity Monsters/monster_quibblegm_rare
