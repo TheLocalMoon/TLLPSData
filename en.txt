@@ -186,6 +186,9 @@ Monsters/Monster_dipster_7_bio=<ref>DipsterBio
 Monsters/Monster_knife=Banchi
 Monsters/Monster_knife_bio=Banchi is the beloved mythical of Candy Island. For years untold, the Banchi have been making the popular glutinous rice snack that is the monster-mochi, through which they also play their unique song. A rumor says that they use a secret ingredient to make their monster-mochi make a sound on impact, but no-one really knows what it is. Some speculations suggest that a certain feline spectral figure helped them out- someone who Banchi refers to as family.
 
+Monsters/Monster_knife_rare=Rare Banchi
+Monsters/Monster_knife_rare=bio
+
 Monsters/Monster_wheezel=Wheezel
 Monsters/Monster_wheezel_bio=Pop! goes the Wheezel… or maybe it's more like a plop. Of course the Earth Mythical would dream up some bizarre, sibilating automaton like this. Of course it would be based on a classic prank like a jack-in-the-box. Of course the Dreamythical's outer shell would be adorned with the same unusual symbols that cover its creator's pelt. Long before its creation in the dreamspace, toys just like it would find their way into the possession of beings across the Monster World, and would subject the unsuspecting to a startling surprise - undoubtedly the handiwork of its progenitor. A Monster of this style calls to mind the unusual life-forms of Wublin Island; it just goes to show that if you can dream it, the power of dreamcraft will make it a reality!
 
