@@ -540,9 +540,6 @@ Monsters/Monster_koodahcane_bio=The sweetening antlers of the Koodahcane are bel
 Monsters/Monster_marshflamo=Marshflamo
 Monsters/Monster_marshflamo_bio=Marshflamos are known to be some of the most warm hearted monsters out there- quite literally, given their molten gooey marshmallowey cores! As time goes on, Marshflamos age through their rapid life cycle, their internal heat toasting them to perfection, before they harden and set ablaze. Their crumbling black shell falls off and reveals a shining new exterior, pure and light as a cloud. As residents of the newly formed sugary refuge in the Pocket Dimension, from the disaster that destroyed the Monster World, Marshflamos work to keep their fellow monsters safe, while telling spooky stories around an ever toasty campfire. 
 
-Monsters/Monster_marshflamo_rare=Rare Marshflamo
-Monsters/Monster_marshflamo_rare_bio=One day, while a common Marshflamo was wondering throughout Candy island, a mischevious stogg was up to no good, while Marshflamo was wondering around, without a care in the world, BOOM! Stogg had pushed Marshflamo into a pit that was just lit for a nice campfire, all the monsters screamed as Marshflamo came out, burnt, but marshmallows don't have pain, so they didn't really care at all..
-
 Monsters/Monster_brasscuit=Brasscuit
 Monsters/Monster_brasscuit_bio=The legend says that a while ago a common ancestor of the Brasscuit and the Stogg got stranded on Candy Island. Initially the new environment was too harsh for the newcomers, but their hard working nature let them adapt and overcome the new challenges, and slowly the species formed into the Brasscuit we know today! Their acoustic horns are self-made, and sewn from the toughest licorice that can be found on the island. Brasscuits are expert foragers, and can smell a good snack from across the island. 
 
@@ -554,9 +551,6 @@ Monsters/Monster_claramel_bio=The ever-shimmering Claramel is known for its cara
 
 Monsters/Monster_sprinklate=Sprinklate
 Monsters/Monster_sprinklate_bio=As the tasty team leader of Candy Island, almost everyone has heard of Sprinklate at some point or another. They love to lead various activities on the island, are enthusiastic members of the island's guard, and keep a watchful eye on all. Though Sprinklate loves all of their friends equally, they have a special spot in their heart for a fellow cake, who visits once a year. 
-
-Monsters/Monster_sprinklate_rare=Rare Sprinklate
-Monsters/Monster_sprinklate_rare_bio=insert rare sprinklate bio here
 
 Monsters/Monster_jamboree_undof=Jam Boree
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
@@ -1126,6 +1120,8 @@ Monsters/Monster_potbellyGM=Kelpebbul
 Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins of the monster world being transferred to a realm outside of space and time, the islands we know and love were turned into Gamma Islands, their inhabitants reborn into spectacular new forms. One such example is the Kelpebbul, the reformed plant elemental, who dazzles with a dreamy demeanor and charms with the sweetest of smiles. These stone monsters have the power to imbue lifeforce into any plant, rejuvinating flora of all sorts and giving them means to vocalize. These sprouts tend to have strange and unique voices, a result of discovering their singing abilities the first time. 
 Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... it seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think. 
+Monsters/Monster_quibblegm_rare=Rare Jastanaw
+Monsters/Monster_quibblegm_rare_bio=bio
 
 str_island_Minigame_YapLeap=Yap Leap
 
