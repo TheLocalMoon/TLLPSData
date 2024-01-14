@@ -546,7 +546,6 @@ Monsters/Monster_noggin_rare_undof coins=0
 Monsters/Monster_kayna_rare_undof coins=0
 Monsters/Monster_keytrus_rare coins=0
 Monsters/Monster_marshflamo_rare coins=0
-Monsters/Monster_sprinklate_rare coins=0
 -
 decorations:
 Decoration/Decoration_test
