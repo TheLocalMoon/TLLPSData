@@ -19,11 +19,12 @@ TLLPS is protected by Apache License 2.0, im just putting the rules in the readm
 1. extract the zip file with the TLL
 2. open the directory using any file manager
 3. go to TLL_Data directory, then to Managed
-4. open dnSpy, drag the AssemblyCSharp.dll file into dnSpy once it's done loading
-5. go to SaveLoadManager
-6. replace all github links with yours
-7. go to file > save module and save it
-8. close dnSpy, and run TLL
+4. open dnSpy, drag the Assembly-CSharp.dll file into dnSpy
+5. once it's done loading, press Assembly-CSharp, then press the dll, and then click the `-`
+6. click on SaveLoadManager in the menu
+7. replace all github links with yours
+8. go to file > save module and save it
+9. close dnSpy, and run TLL
 
 ----------
 # FAQ
