@@ -137,8 +137,6 @@ Monsters/Monster_trox_bio=The T-Rox exudes enthusiasm and energy, displaying fla
 #ADULT OFFICIAL QUADS#
 Monsters/Monster_deedge=Deedge
 Monsters/Monster_deedge_bio=The Deedge, attuned to the beat of the Earth, pulls together multiple elements to produce a complex beat. A tireless, energetic performer, it keeps all the Monsters dancing.
-Monsters/Monster_deedge_rare=Rare Deedge
-Monsters/Monster_deedge_rare_bio=Rare Deedges are so handy! They've got a knack for invention, and relish every opportunity to take something apart and put back together again in a completely different way. Miraculously, the objects they recraft still work, even after reassembly! Such is the case with their state-of-the-art gilded amp sets, which blast out beats just as well as common Deedges' regular ice(boom)boxes. Just goes to show that there's more than one way to skin a Stritch.
 Monsters/Monster_pongping=PongPing
 Monsters/Monster_pongping_bio=There's a persistent cliché that you can either be a music fan or a sports nut, but not both - and the PongPing proves otherwise! Even though its vermiform body is better suited to standing activities like table tennis, the Monster also loves embarking on cross-island marathons, no matter how long they take. To keep its spirits up on the way, the PongPing uses its paddles to practice a series of rhythmic rudiments on its inflatable cheeks. When intense weather or fatigue threaten to discourage, the Monster likes to remember the optimistic adage its forebears always used to say: "Life is like a music box of Chokkolits... wait, why are there Chokkolits in a music box? What a mess! Oh well, let's get started on clean-up." We know, it's kind of convoluted.
 Monsters/Monster_tiawa=Tiawa
@@ -187,9 +185,6 @@ Monsters/Monster_dipster_7_bio=<ref>DipsterBio
 
 Monsters/Monster_knife=Banchi
 Monsters/Monster_knife_bio=Banchi is the beloved mythical of Candy Island. For years untold, the Banchi have been making the popular glutinous rice snack that is the monster-mochi, through which they also play their unique song. A rumor says that they use a secret ingredient to make their monster-mochi make a sound on impact, but no-one really knows what it is. Some speculations suggest that a certain feline spectral figure helped them out- someone who Banchi refers to as family.
-
-Monsters/Monster_knife_rare=Rare Banchi
-Monsters/Monster_knife_rare=bio
 
 Monsters/Monster_wheezel=Wheezel
 Monsters/Monster_wheezel_bio=Pop! goes the Wheezel… or maybe it's more like a plop. Of course the Earth Mythical would dream up some bizarre, sibilating automaton like this. Of course it would be based on a classic prank like a jack-in-the-box. Of course the Dreamythical's outer shell would be adorned with the same unusual symbols that cover its creator's pelt. Long before its creation in the dreamspace, toys just like it would find their way into the possession of beings across the Monster World, and would subject the unsuspecting to a startling surprise - undoubtedly the handiwork of its progenitor. A Monster of this style calls to mind the unusual life-forms of Wublin Island; it just goes to show that if you can dream it, the power of dreamcraft will make it a reality!
@@ -1125,8 +1120,6 @@ Monsters/Monster_potbellyGM=Kelpebbul
 Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins of the monster world being transferred to a realm outside of space and time, the islands we know and love were turned into Gamma Islands, their inhabitants reborn into spectacular new forms. One such example is the Kelpebbul, the reformed plant elemental, who dazzles with a dreamy demeanor and charms with the sweetest of smiles. These stone monsters have the power to imbue lifeforce into any plant, rejuvinating flora of all sorts and giving them means to vocalize. These sprouts tend to have strange and unique voices, a result of discovering their singing abilities the first time. 
 Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... it seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think. 
-Monsters/Monster_quibblegm_rare=Rare Jastanaw
-Monsters/Monster_quibblegm_rare_bio=bio
 
 str_island_Minigame_YapLeap=Yap Leap
 
@@ -1187,3 +1180,11 @@ Monsters/Monster_ghazt_dream_bio=Dishonest, Distinct, Delight, Distant, District
 
 Monsters/VOIDCORN_dream=<color="red">V O I D C O R N</color>
 Monsters/VOIDCORN_dream_bio=<color="red">YOUR MISSING YOOL</color>
+
+#NEW RARES#
+Monsters/Monster_deedge_rare=Rare Deedge
+Monsters/Monster_deedge_rare_bio=Rare Deedges are so handy! They've got a knack for invention, and relish every opportunity to take something apart and put back together again in a completely different way. Miraculously, the objects they recraft still work, even after reassembly! Such is the case with their state-of-the-art gilded amp sets, which blast out beats just as well as common Deedges' regular ice(boom)boxes. Just goes to show that there's more than one way to skin a Stritch.
+Monsters/Monster_knife_rare=Rare Banchi
+Monsters/Monster_knife_rare=Rare banchi, the black&white version of Banchi, was formed by a random thunderstorm on Candy Island. Who knows, maybe it's fake news!
+Monsters/Monster_quibblegm_rare=Rare Jastanaw
+Monsters/Monster_quibblegm_rare_bio=Okay, we get it, the quibble DNA got formed into common Jastanaw, but what about the Rare one? Legends say, it's probably because of Olgaropipe.
