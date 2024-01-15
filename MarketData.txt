@@ -644,6 +644,7 @@ Monsters/Monster_pixolotl Vortex=0
 monster_rares:
 Monsters/Monster_banno_rare Vortex=0
 Monsters/Monster_varrow_rare Vortex=0
+Monsters/Monster_deedge_rare Vortex=0
 -
 decorations:
 Decoration/Decoration_test
