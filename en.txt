@@ -137,6 +137,8 @@ Monsters/Monster_trox_bio=The T-Rox exudes enthusiasm and energy, displaying fla
 #ADULT OFFICIAL QUADS#
 Monsters/Monster_deedge=Deedge
 Monsters/Monster_deedge_bio=The Deedge, attuned to the beat of the Earth, pulls together multiple elements to produce a complex beat. A tireless, energetic performer, it keeps all the Monsters dancing.
+Monsters/Monster_deedge_rare=Rare Deedge
+Monsters/Monster_deedge_rare=Rare Deedges are so handy! They've got a knack for invention, and relish every opportunity to take something apart and put back together again in a completely different way. Miraculously, the objects they recraft still work, even after reassembly! Such is the case with their state-of-the-art gilded amp sets, which blast out beats just as well as common Deedges' regular ice(boom)boxes. Just goes to show that there's more than one way to skin a Stritch.
 Monsters/Monster_pongping=PongPing
 Monsters/Monster_pongping_bio=There's a persistent cliché that you can either be a music fan or a sports nut, but not both - and the PongPing proves otherwise! Even though its vermiform body is better suited to standing activities like table tennis, the Monster also loves embarking on cross-island marathons, no matter how long they take. To keep its spirits up on the way, the PongPing uses its paddles to practice a series of rhythmic rudiments on its inflatable cheeks. When intense weather or fatigue threaten to discourage, the Monster likes to remember the optimistic adage its forebears always used to say: "Life is like a music box of Chokkolits... wait, why are there Chokkolits in a music box? What a mess! Oh well, let's get started on clean-up." We know, it's kind of convoluted.
 Monsters/Monster_tiawa=Tiawa
