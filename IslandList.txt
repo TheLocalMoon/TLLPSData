@@ -5,6 +5,7 @@ Organs
 TI
 EgyptPipes
 Calamity
+Diaper
 GM
 Knottshurr
 Meduza
