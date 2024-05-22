@@ -11,12 +11,14 @@ Monsters/Monster_likho diamonds=0
 Monsters/Monster_wadee diamonds=0
 Monsters/Monster_varrow diamonds=0
 Monsters/Monster_quibble diamonds=0
+Monsters/Monster_pango diamonds=100
 Monsters/Monster_spunge diamonds=0
 Monsters/Monster_choral diamonds=0
 Monsters/Monster_dulsylvan diamonds=0
 Monsters/Monster_banno diamonds=0
 Monsters/Monster_stoopa diamonds=0
 Monsters/Monster_maulch coins=0
+Monsters/Monster_phangler diamonds=0
 -
 monster_secret:
 Monsters/Monster_percFrog
