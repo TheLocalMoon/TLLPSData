@@ -153,12 +153,15 @@ Monsters/Monster_phangler_undof
 Monsters/Monster_marshflamo
 Monsters/Monster_marshflamo_rare
 Monsters/Monster_koodahcane
+Monsters/Monster_koodahcane_rare
 Monsters/Monster_gobstomper
 Monsters/Monster_thrumble_undof
 Monsters/Monster_keytrus
 Monsters/Monster_keytrus_rare
 Monsters/Monster_claramel
+Monsters/Monster_claramel_rare
 Monsters/Monster_brasscuit
+Monsters/Monster_brasscuit_rare
 Monsters/Monster_sprinklate
 Monsters/Monster_jamboree_undof
 Monsters/Monster_ghazt_undof
