@@ -62,7 +62,7 @@ BaBcia
 Jadwiga
 Jad-Wig
 ;
-Monsters/Monster_wadee
+Monsters/Monster_entbrat
 Big W
 Ocean Man
 Kaypira
