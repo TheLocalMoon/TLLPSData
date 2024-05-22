@@ -309,13 +309,13 @@ Decoration/Dog
 ;
 Organs
 monsters:
-Monsters/Monster_handmond coins=0
+Monsters/Monster_phangler diamonds=0
 Monsters/Monster_whimstlop diamonds=0
 Monsters/Monster_theremind diamonds=0
 Monsters/Monster_oaktopus diamonds=0
 Monsters/Monster_boskus diamonds=0
 Monsters/Monster_cybop diamonds=0
-Monsters/Monster_denchuhs diamonds=0
+Monsters/Monster_marsflamo diamonds=0
 Monsters/Monster_clamble diamonds=0
 Monsters/Monster_shellbeat diamonds=0
 Monsters/Monster_schmoochle diamonds=0
